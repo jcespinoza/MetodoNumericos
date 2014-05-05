@@ -39,6 +39,36 @@
       <height>20</height>
      </rect>
     </property>
+    <item>
+     <property name="text">
+      <string>Biseccion</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Iteracion de punto fijo</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Newton</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Secante</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Posicion Falsa</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Muller</string>
+     </property>
+    </item>
    </widget>
    <widget class="QLabel" name="label">
     <property name="geometry">
@@ -286,13 +316,6 @@
      </rect>
     </property>
    </widget>
-   <zorder>leEquation</zorder>
-   <zorder>label_2</zorder>
-   <zorder>cboMethod</zorder>
-   <zorder>label</zorder>
-   <zorder>leEquation</zorder>
-   <zorder>groupParameters</zorder>
-   <zorder>teSteps</zorder>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
